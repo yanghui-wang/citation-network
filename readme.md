@@ -1,5 +1,5 @@
 Introduction
-This project creates a citation network from a data set of published paper and an importance ranking of the books. We used the Citation-network V1 dataset from https://aminer.org/citation for this project. The project in written in Python 2.7 and particular attention is paid to PageRank and virtualization of the results. The report includes pseudo-code that explains how the program works such that a Python programmer could read it and understand how to create the program from scratch. 
+This project creates a citation network from a data set of published paper and an importance ranking of the books. I used the Citation-network V1 dataset from https://aminer.org/citation for this project. The project in written in Python 2.7 and particular attention is paid to PageRank and virtualization of the results. The report includes pseudo-code that explains how the program works such that a Python programmer could read it and understand how to create the program from scratch. 
 
 Description
 
